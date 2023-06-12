@@ -1,0 +1,56 @@
+[paths]
+directory = "access_seed42"
+results = "access_seed42/results"
+outputs = "access_seed42/outputs"
+script = "access_seed42/access_script.py"
+setup = "access_seed42/access_setup.toml"
+epochs = "access_seed42/epochs_pop8.csv"
+epochs_scaled = "access_seed42/epochs_pop8_scaled.csv"
+history = "access_seed42/history_pop8.csv"
+history_scaled = "access_seed42/history_pop8_scaled.csv"
+
+[setup]
+scaling = [ 0.4, 0.4, 8000.0,]
+population = 8
+target = 0.05
+seed = 42
+
+[setup.parameters.value]
+sliding = 0.5
+rolling = 0.5
+num_particles = 30000.0
+
+[setup.parameters.min]
+sliding = 0.0
+rolling = 0.0
+num_particles = 20000.0
+
+[setup.parameters.max]
+sliding = 1.0
+rolling = 1.0
+num_particles = 40000.0
+
+[setup.parameters.sigma]
+sliding = 0.4
+rolling = 0.4
+num_particles = 8000.0
+
+[setup.parameters_scaled.value]
+sliding = 1.25
+rolling = 1.25
+num_particles = 3.75
+
+[setup.parameters_scaled.min]
+sliding = 0.0
+rolling = 0.0
+num_particles = 2.5
+
+[setup.parameters_scaled.max]
+sliding = 2.5
+rolling = 2.5
+num_particles = 5.0
+
+[setup.parameters_scaled.sigma]
+sliding = 1.0
+rolling = 1.0
+num_particles = 1.0

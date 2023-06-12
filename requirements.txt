@@ -1,0 +1,5 @@
+konigcell>=0.2
+opencv-python>=4.7
+pyvista>=0.38
+coexist>=0.3
+kaleido>=0.1

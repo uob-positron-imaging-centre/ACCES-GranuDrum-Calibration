@@ -1,0 +1,766 @@
+Detected OS: RedHatEnterprise 8.6
+GCCcore/11.3.0
+zlib/1.2.12-GCCcore-11.3.0
+binutils/2.38-GCCcore-11.3.0
+GCC/11.3.0
+numactl/2.0.14-GCCcore-11.3.0
+XZ/5.2.5-GCCcore-11.3.0
+libxml2/2.9.13-GCCcore-11.3.0
+libpciaccess/0.16-GCCcore-11.3.0
+hwloc/2.7.1-GCCcore-11.3.0
+OpenSSL/1.1
+libevent/2.1.12-GCCcore-11.3.0
+UCX/1.12.1-GCCcore-11.3.0
+libfabric/1.15.1-GCCcore-11.3.0
+PMIx/4.1.2-GCCcore-11.3.0
+UCC/1.0.0-GCCcore-11.3.0
+OpenMPI/4.1.4-GCC-11.3.0
+OpenBLAS/0.3.20-GCC-11.3.0
+FlexiBLAS/3.2.0-GCC-11.3.0
+FFTW/3.3.10-GCC-11.3.0
+gompi/2022a
+FFTW.MPI/3.3.10-gompi-2022a
+ScaLAPACK/2.2.0-gompi-2022a-fb
+foss/2022a
+bzip2/1.0.8-GCCcore-11.3.0
+ncurses/6.3-GCCcore-11.3.0
+libreadline/8.1.2-GCCcore-11.3.0
+ncurses/6.3-GCCcore-11.3.0
+Tcl/8.6.12-GCCcore-11.3.0
+SQLite/3.38.3-GCCcore-11.3.0
+GMP/6.2.1-GCCcore-11.3.0
+libffi/3.4.2-GCCcore-11.3.0
+Python/3.10.4-GCCcore-11.3.0
+NASM/2.15.05-GCCcore-11.3.0
+libjpeg-turbo/2.1.3-GCCcore-11.3.0
+pybind11/2.9.2-GCCcore-11.3.0
+SciPy-bundle/2022.05-foss-2022a
+gzip/1.12-GCCcore-11.3.0
+lz4/1.9.3-GCCcore-11.3.0
+zstd/1.5.2-GCCcore-11.3.0
+expat/2.4.8-GCCcore-11.3.0
+libpng/1.6.37-GCCcore-11.3.0
+Brotli/1.0.9-GCCcore-11.3.0
+freetype/2.12.1-GCCcore-11.3.0
+util-linux/2.38-GCCcore-11.3.0
+fontconfig/2.14.0-GCCcore-11.3.0
+freetype/2.12.1-GCCcore-11.3.0
+xorg-macros/1.19.3-GCCcore-11.3.0
+X11/20220504-GCCcore-11.3.0
+libdrm/2.4.110-GCCcore-11.3.0
+libglvnd/1.4.0-GCCcore-11.3.0
+libunwind/1.6.2-GCCcore-11.3.0
+X11/20220504-GCCcore-11.3.0
+LLVM/12.0.1-GCCcore-11.3.0
+Mesa/22.0.3-GCCcore-11.3.0
+libGLU/9.0.2-GCCcore-11.3.0
+X11/20220504-GCCcore-11.3.0
+VTK/9.2.2-foss-2022a
+PICI-LIGGGHTS/3.8.1-foss-2022a-VTK-9.2.2
+libxslt/1.1.34-GCCcore-11.3.0
+Tk/8.6.12-GCCcore-11.3.0
+Tkinter/3.10.4-GCCcore-11.3.0
+jbigkit/2.1-GCCcore-11.3.0
+libdeflate/1.10-GCCcore-11.3.0
+LibTIFF/4.3.0-GCCcore-11.3.0
+Pillow/9.1.1-GCCcore-11.3.0
+Qhull/2020.2-GCCcore-11.3.0
+matplotlib/3.5.2-foss-2022a
+tqdm/4.64.0-GCCcore-11.3.0
+scikit-learn/1.1.2-foss-2022a
+numba/0.56.4-foss-2022a
+pydicom/2.3.0-GCCcore-11.3.0
+NiBabel/4.0.2-foss-2022a
+Szip/2.1.1-GCCcore-11.3.0
+HDF5/1.12.2-gompi-2022a
+h5py/3.7.0-foss-2022a
+imageio/2.22.2-foss-2022a
+MNE-Python/1.3.1-foss-2022a
+cma/3.3.0-foss-2022a
+plotly.py/5.12.0-GCCcore-11.3.0
+coexist/0.3.1-foss-2022a
+tqdm/4.64.0-GCCcore-11.3.0
+x264/20220620-GCCcore-11.3.0
+LAME/3.100-GCCcore-11.3.0
+x265/3.5-GCCcore-11.3.0
+FriBidi/1.0.12-GCCcore-11.3.0
+FFmpeg/4.4.2-GCCcore-11.3.0
+gettext/0.21-GCCcore-11.3.0
+PCRE/8.45-GCCcore-11.3.0
+GLib/2.72.1-GCCcore-11.3.0
+ICU/71.1-GCCcore-11.3.0
+pixman/0.40.0-GCCcore-11.3.0
+cairo/1.17.4-GCCcore-11.3.0
+HarfBuzz/4.2.1-GCCcore-11.3.0
+OpenJPEG/2.5.0-GCCcore-11.3.0
+giflib/5.2.1-GCCcore-11.3.0
+libwebp/1.2.4-GCCcore-11.3.0
+Imath/3.1.5-GCCcore-11.3.0
+OpenEXR/3.1.5-GCCcore-11.3.0
+JasPer/2.0.33-GCCcore-11.3.0
+Java/11.0.16
+Java/11.0.16
+ant/1.10.12-Java-11
+GLib/2.72.1-GCCcore-11.3.0
+ATK/2.38.0-GCCcore-11.3.0
+DBus/1.14.0-GCCcore-11.3.0
+at-spi2-core/2.44.1-GCCcore-11.3.0
+at-spi2-atk/2.38.0-GCCcore-11.3.0
+Gdk-Pixbuf/2.42.8-GCCcore-11.3.0
+Pango/1.50.7-GCCcore-11.3.0
+libepoxy/1.5.10-GCCcore-11.3.0
+GSL/2.7-GCC-11.3.0
+libarchive/3.6.1-GCCcore-11.3.0
+elfutils/0.187-GCCcore-11.3.0
+GStreamer/1.20.2-GCC-11.3.0
+Graphene/1.10.8-GCCcore-11.3.0
+GST-plugins-base/1.20.2-GCC-11.3.0
+GST-plugins-bad/1.20.2-GCC-11.3.0
+Wayland/1.20.0-GCCcore-11.3.0
+GObject-Introspection/1.72.0-GCCcore-11.3.0
+PyCairo/1.21.0-GCCcore-11.3.0
+PyGObject/3.42.1-GCCcore-11.3.0
+GTK4/4.7.0-GCC-11.3.0
+OpenCV/4.6.0-foss-2022a-contrib
+LIGGGHTS (Version LIGGGHTS-PUBLIC 3.8.0, compiled 2023-04-03-12:47:02 by branfosj-admin, git commit unknown)
+Created orthogonal box = (-0.043 -0.001 -0.043) to (0.043 0.021 0.043)
+  1 by 1 by 1 MPI processor grid
+WARNING: 
+	The contact model you specified is not located in any whitelist.
+	Because of this the model will be run in an unoptimized version (increasing runtime by up to 20%).
+	In order to optimize this model you have the following options:
+		(i)  Run the genAutoExamplesWhitelist.sh script in your LIGGGHTS(R) source folder to automatically parse the input script
+		(ii) Add the model combination by hand to your style_contact_model_user.whitelist that can be found in your LIGGGHTS(R) source folder
+	If you perform one of the steps above LIGGGHTS(R) needs to be recompiled to generate the optimized code.
+
+ (/dev/shm/branfosj-admin/build-2022a/PICILIGGGHTS/3.8.1/foss-2022a-VTK-9.2.2/PICI-LIGGGHTS-3.8.1/src/contact_models.h:364)
+
+Reading STL file 'mesh/rotating_drum.stl' (mesh processing step 1/3) 
+
+Reading STL file 'mesh/inface.stl' (mesh processing step 1/3) 
+Fix particledistribution/discrete (id pdd): distribution based on number%:
+    frac0: d=1.050000e-03 (max. bounding sphere) number%=0.646590%
+    frac1: d=1.100000e-03 (max. bounding sphere) number%=7.387693%
+    frac2: d=1.150000e-03 (max. bounding sphere) number%=26.249571%
+    frac3: d=1.200000e-03 (max. bounding sphere) number%=25.249525%
+    frac4: d=1.250000e-03 (max. bounding sphere) number%=17.012964%
+    frac5: d=1.300000e-03 (max. bounding sphere) number%=10.530736%
+    frac6: d=1.350000e-03 (max. bounding sphere) number%=6.885834%
+    frac7: d=1.400000e-03 (max. bounding sphere) number%=3.662696%
+    frac8: d=1.450000e-03 (max. bounding sphere) number%=1.861549%
+    frac9: d=1.500000e-03 (max. bounding sphere) number%=0.512842%
+Setting up run at Thu Jun  8 19:13:40 2023
+
+LIGGGHTS (Version LIGGGHTS-PUBLIC 3.8.0, compiled 2023-04-03-12:47:02 by branfosj-admin, git commit unknown)
+Created orthogonal box = (-0.043 -0.001 -0.043) to (0.043 0.021 0.043)
+  1 by 1 by 1 MPI processor grid
+WARNING: 
+	The contact model you specified is not located in any whitelist.
+	Because of this the model will be run in an unoptimized version (increasing runtime by up to 20%).
+	In order to optimize this model you have the following options:
+		(i)  Run the genAutoExamplesWhitelist.sh script in your LIGGGHTS(R) source folder to automatically parse the input script
+		(ii) Add the model combination by hand to your style_contact_model_user.whitelist that can be found in your LIGGGHTS(R) source folder
+	If you perform one of the steps above LIGGGHTS(R) needs to be recompiled to generate the optimized code.
+
+ (/dev/shm/branfosj-admin/build-2022a/PICILIGGGHTS/3.8.1/foss-2022a-VTK-9.2.2/PICI-LIGGGHTS-3.8.1/src/contact_models.h:364)
+
+Reading STL file 'mesh/rotating_drum.stl' (mesh processing step 1/3) 
+
+Reading STL file 'mesh/inface.stl' (mesh processing step 1/3) 
+Fix particledistribution/discrete (id pdd): distribution based on number%:
+    frac0: d=1.050000e-03 (max. bounding sphere) number%=0.646590%
+    frac1: d=1.100000e-03 (max. bounding sphere) number%=7.387693%
+    frac2: d=1.150000e-03 (max. bounding sphere) number%=26.249571%
+    frac3: d=1.200000e-03 (max. bounding sphere) number%=25.249525%
+    frac4: d=1.250000e-03 (max. bounding sphere) number%=17.012964%
+    frac5: d=1.300000e-03 (max. bounding sphere) number%=10.530736%
+    frac6: d=1.350000e-03 (max. bounding sphere) number%=6.885834%
+    frac7: d=1.400000e-03 (max. bounding sphere) number%=3.662696%
+    frac8: d=1.450000e-03 (max. bounding sphere) number%=1.861549%
+    frac9: d=1.500000e-03 (max. bounding sphere) number%=0.512842%
+Setting up run at Thu Jun  8 19:13:40 2023
+
+Import and parallelization of mesh cad containing 2932 triangle(s) successful
+Import and parallelization of mesh cad containing 2932 triangle(s) successful
+Import and parallelization of mesh inface containing 2 triangle(s) successful
+INFO: Particle insertion ins: 28002.400000 particles every 8000 steps - particle rate 350030.000000  (mass rate 5.354173e-01)
+      35003 particles (mass 5.354173e-02) within 8000 steps
+Memory usage per processor = 7.31006 Mbytes
+    Step    Atoms         KinEng         Volume           Time 
+       0        0              0    0.000162712              0 
+WARNING: Fix insert/stream: Extruded insertion face extends outside domain, may not insert all particles correctly (/dev/shm/branfosj-admin/build-2022a/PICILIGGGHTS/3.8.1/foss-2022a-VTK-9.2.2/PICI-LIGGGHTS-3.8.1/src/fix_insert_stream.cpp:561)
+INFO: Particle insertion ins: inserted 18010 particle templates (mass 3.057321e-02) at step 1
+ - a total of 18010 particle templates (mass 3.057321e-02) inserted so far.
+WARNING: Particle insertion: Less insertions than requested (/dev/shm/branfosj-admin/build-2022a/PICILIGGGHTS/3.8.1/foss-2022a-VTK-9.2.2/PICI-LIGGGHTS-3.8.1/src/fix_insert.cpp:814)
+    1000    18010   0.0045158971    0.000162712           0.01 
+    2000    18010   0.0053484693    0.000162712           0.02 
+    3000    18010   0.0062274655    0.000162712           0.03 
+    4000    18010   0.0072412285    0.000162712           0.04 
+    5000    18010    0.007734037    0.000162712           0.05 
+    6000    18010   0.0065898713    0.000162712           0.06 
+    7000    18010   0.0052204078    0.000162712           0.07 
+    8000    18010   0.0040803464    0.000162712           0.08 
+WARNING: Fix insert/stream: Extruded insertion face extends outside domain, may not insert all particles correctly (/dev/shm/branfosj-admin/build-2022a/PICILIGGGHTS/3.8.1/foss-2022a-VTK-9.2.2/PICI-LIGGGHTS-3.8.1/src/fix_insert_stream.cpp:561)
+INFO: Particle insertion ins: inserted 16993 particle templates (mass 2.599399e-02) at step 8001
+ - a total of 35003 particle templates (mass 5.656720e-02) inserted so far.
+    9000    35003   0.0056353865    0.000162712           0.09 
+   10000    35003   0.0047552515    0.000162712            0.1 
+   11000    35003   0.0038284865    0.000162712           0.11 
+   12000    35003   0.0030578734    0.000162712           0.12 
+   13000    35003   0.0025521064    0.000162712           0.13 
+   14000    35003   0.0021659219    0.000162712           0.14 
+   15000    35003   0.0018946787    0.000162712           0.15 
+   16000    35003    0.011648309    0.000162712           0.16 
+   17000    35003    0.010614418    0.000162712           0.17 
+   18000    35003   0.0067255038    0.000162712           0.18 
+   19000    35003   0.0033678091    0.000162712           0.19 
+   20000    35003    0.001864511    0.000162712            0.2 
+   21000    35003   0.0012214517    0.000162712           0.21 
+   22000    35003   0.0010119299    0.000162712           0.22 
+   23000    35003   0.0010268081    0.000162712           0.23 
+   24000    35003   0.0011993876    0.000162712           0.24 
+   25000    35003   0.0015124932    0.000162712           0.25 
+   26000    35003   0.0019162277    0.000162712           0.26 
+   27000    35003   0.0023866533    0.000162712           0.27 
+   28000    35003   0.0029147215    0.000162712           0.28 
+   29000    35003   0.0033537147    0.000162712           0.29 
+   30000    35003   0.0034447746    0.000162712            0.3 
+   31000    35003    0.002659627    0.000162712           0.31 
+   32000    35003  0.00060999142    0.000162712           0.32 
+   33000    35003  0.00065382351    0.000162712           0.33 
+   34000    35003  0.00065593546    0.000162712           0.34 
+   35000    35003  0.00063680899    0.000162712           0.35 
+   36000    35003  0.00062515582    0.000162712           0.36 
+   37000    35003  0.00061996383    0.000162712           0.37 
+   38000    35003  0.00061499548    0.000162712           0.38 
+   39000    35003  0.00061529039    0.000162712           0.39 
+   40000    35003  0.00061573292    0.000162712            0.4 
+   41000    35003  0.00062076165    0.000162712           0.41 
+   42000    35003  0.00063329408    0.000162712           0.42 
+   43000    35003  0.00064702098    0.000162712           0.43 
+   44000    35003  0.00066481356    0.000162712           0.44 
+   45000    35003  0.00068451277    0.000162712           0.45 
+   46000    35003  0.00071724005    0.000162712           0.46 
+   47000    35003   0.0007655896    0.000162712           0.47 
+   48000    35003  0.00082776891    0.000162712           0.48 
+   49000    35003   0.0008997786    0.000162712           0.49 
+   50000    35003  0.00096525711    0.000162712            0.5 
+   51000    35003   0.0010312027    0.000162712           0.51 
+   52000    35003   0.0010840601    0.000162712           0.52 
+   53000    35003   0.0011550524    0.000162712           0.53 
+   54000    35003   0.0012013413    0.000162712           0.54 
+   55000    35003   0.0012420154    0.000162712           0.55 
+   56000    35003   0.0012865048    0.000162712           0.56 
+   57000    35003   0.0013260184    0.000162712           0.57 
+   58000    35003   0.0013475922    0.000162712           0.58 
+   59000    35003   0.0013735734    0.000162712           0.59 
+   60000    35003   0.0013732198    0.000162712            0.6 
+   61000    35003   0.0013344582    0.000162712           0.61 
+   62000    35003   0.0013412916    0.000162712           0.62 
+   63000    35003   0.0013367145    0.000162712           0.63 
+   64000    35003   0.0012842244    0.000162712           0.64 
+   65000    35003   0.0012619111    0.000162712           0.65 
+   66000    35003   0.0012401271    0.000162712           0.66 
+   67000    35003   0.0012140976    0.000162712           0.67 
+   68000    35003   0.0012025247    0.000162712           0.68 
+   69000    35003   0.0011723095    0.000162712           0.69 
+   70000    35003    0.001166677    0.000162712            0.7 
+   71000    35003   0.0011423775    0.000162712           0.71 
+   72000    35003   0.0011547498    0.000162712           0.72 
+   73000    35003   0.0011392469    0.000162712           0.73 
+   74000    35003   0.0011291393    0.000162712           0.74 
+   75000    35003   0.0011377572    0.000162712           0.75 
+   76000    35003    0.001130157    0.000162712           0.76 
+   77000    35003   0.0011350386    0.000162712           0.77 
+   78000    35003   0.0011447512    0.000162712           0.78 
+   79000    35003    0.001127578    0.000162712           0.79 
+   80000    35003   0.0011385106    0.000162712            0.8 
+   81000    35003   0.0011365631    0.000162712           0.81 
+   82000    35003   0.0011348197    0.000162712           0.82 
+   83000    35003   0.0011564632    0.000162712           0.83 
+   84000    35003   0.0011373427    0.000162712           0.84 
+   85000    35003    0.001149609    0.000162712           0.85 
+   86000    35003   0.0011462182    0.000162712           0.86 
+   87000    35003   0.0011492569    0.000162712           0.87 
+   88000    35003   0.0011581456    0.000162712           0.88 
+   89000    35003   0.0011479895    0.000162712           0.89 
+   90000    35003   0.0011576028    0.000162712            0.9 
+   91000    35003   0.0011532142    0.000162712           0.91 
+   92000    35003   0.0011445547    0.000162712           0.92 
+   93000    35003   0.0011645635    0.000162712           0.93 
+   94000    35003   0.0011605157    0.000162712           0.94 
+   95000    35003    0.001157626    0.000162712           0.95 
+   96000    35003   0.0011505746    0.000162712           0.96 
+   97000    35003   0.0011564658    0.000162712           0.97 
+   98000    35003   0.0011572441    0.000162712           0.98 
+   99000    35003   0.0011512519    0.000162712           0.99 
+  100000    35003   0.0011558528    0.000162712              1 
+  101000    35003   0.0011607944    0.000162712           1.01 
+  102000    35003   0.0011655307    0.000162712           1.02 
+  103000    35003   0.0011691949    0.000162712           1.03 
+  104000    35003   0.0011753261    0.000162712           1.04 
+  105000    35003   0.0011528112    0.000162712           1.05 
+  106000    35003   0.0011Import and parallelization of mesh inface containing 2 triangle(s) successful
+INFO: Particle insertion ins: 28002.400000 particles every 8000 steps - particle rate 350030.000000  (mass rate 5.354173e-01)
+      35003 particles (mass 5.354173e-02) within 8000 steps
+Memory usage per processor = 7.31006 Mbytes
+    Step    Atoms         KinEng         Volume           Time 
+       0        0              0    0.000162712              0 
+WARNING: Fix insert/stream: Extruded insertion face extends outside domain, may not insert all particles correctly (/dev/shm/branfosj-admin/build-2022a/PICILIGGGHTS/3.8.1/foss-2022a-VTK-9.2.2/PICI-LIGGGHTS-3.8.1/src/fix_insert_stream.cpp:561)
+INFO: Particle insertion ins: inserted 18010 particle templates (mass 3.057321e-02) at step 1
+ - a total of 18010 particle templates (mass 3.057321e-02) inserted so far.
+WARNING: Particle insertion: Less insertions than requested (/dev/shm/branfosj-admin/build-2022a/PICILIGGGHTS/3.8.1/foss-2022a-VTK-9.2.2/PICI-LIGGGHTS-3.8.1/src/fix_insert.cpp:814)
+    1000    18010   0.0045114753    0.000162712           0.01 
+    2000    18010   0.0053426243    0.000162712           0.02 
+    3000    18010   0.0062164374    0.000162712           0.03 
+    4000    18010   0.0072505219    0.000162712           0.04 
+    5000    18010   0.0077032437    0.000162712           0.05 
+    6000    18010   0.0065480453    0.000162712           0.06 
+    7000    18010   0.0050962491    0.000162712           0.07 
+    8000    18010   0.0039174608    0.000162712           0.08 
+WARNING: Fix insert/stream: Extruded insertion face extends outside domain, may not insert all particles correctly (/dev/shm/branfosj-admin/build-2022a/PICILIGGGHTS/3.8.1/foss-2022a-VTK-9.2.2/PICI-LIGGGHTS-3.8.1/src/fix_insert_stream.cpp:561)
+INFO: Particle insertion ins: inserted 16993 particle templates (mass 2.599399e-02) at step 8001
+ - a total of 35003 particle templates (mass 5.656720e-02) inserted so far.
+    9000    35003   0.0053976787    0.000162712           0.09 
+   10000    35003   0.0044471664    0.000162712            0.1 
+   11000    35003   0.0034592919    0.000162712           0.11 
+   12000    35003   0.0026467633    0.000162712           0.12 
+   13000    35003   0.0018810027    0.000162712           0.13 
+   14000    35003   0.0015687698    0.000162712           0.14 
+   15000    35003   0.0011789146    0.000162712           0.15 
+   16000    35003   0.0084594876    0.000162712           0.16 
+   17000    35003   0.0079544708    0.000162712           0.17 
+   18000    35003   0.0053482888    0.000162712           0.18 
+   19000    35003   0.0029414137    0.000162712           0.19 
+   20000    35003   0.0013218233    0.000162712            0.2 
+   21000    35003  0.00065563828    0.000162712           0.21 
+   22000    35003   0.0004364743    0.000162712           0.22 
+   23000    35003  0.00045219527    0.000162712           0.23 
+   24000    35003  0.00061149684    0.000162712           0.24 
+   25000    35003  0.00089717013    0.000162712           0.25 
+   26000    35003   0.0012464323    0.000162712           0.26 
+   27000    35003    0.001605466    0.000162712           0.27 
+   28000    35003    0.001908709    0.000162712           0.28 
+   29000    35003   0.0021044662    0.000162712           0.29 
+   30000    35003   0.0021010076    0.000162712            0.3 
+   31000    35003   0.0012241507    0.000162712           0.31 
+   32000    35003  0.00012795662    0.000162712           0.32 
+   33000    35003  0.00012645784    0.000162712           0.33 
+   34000    35003  9.6725873e-05    0.000162712           0.34 
+   35000    35003  8.2166347e-05    0.000162712           0.35 
+   36000    35003  7.0798775e-05    0.000162712           0.36 
+   37000    35003  6.5546937e-05    0.000162712           0.37 
+   38000    35003  6.1614726e-05    0.000162712           0.38 
+   39000    35003  5.9645499e-05    0.000162712           0.39 
+   40000    35003  5.8908705e-05    0.000162712            0.4 
+   41000    35003   5.862797e-05    0.000162712           0.41 
+   42000    35003  5.8265056e-05    0.000162712           0.42 
+   43000    35003  5.8122659e-05    0.000162712           0.43 
+   44000    35003    5.80201e-05    0.000162712           0.44 
+   45000    35003  5.7979294e-05    0.000162712           0.45 
+   46000    35003  5.7922655e-05    0.000162712           0.46 
+   47000    35003  5.7869938e-05    0.000162712           0.47 
+   48000    35003  5.7846854e-05    0.000162712           0.48 
+   49000    35003  5.7811725e-05    0.000162712           0.49 
+   50000    35003  5.7784779e-05    0.000162712            0.5 
+   51000    35003  5.7724791e-05    0.000162712           0.51 
+   52000    35003  5.7677182e-05    0.000162712           0.52 
+   53000    35003  5.7699398e-05    0.000162712           0.53 
+   54000    35003   5.775482e-05    0.000162712           0.54 
+   55000    35003  5.7715787e-05    0.000162712           0.55 
+   56000    35003  5.7745882e-05    0.000162712           0.56 
+   57000    35003  5.7751654e-05    0.000162712           0.57 
+   58000    35003  5.7810117e-05    0.000162712           0.58 
+   59000    35003  5.7796227e-05    0.000162712           0.59 
+   60000    35003  5.7955231e-05    0.000162712            0.6 
+   61000    35003  5.8213036e-05    0.000162712           0.61 
+   62000    35003  5.8560344e-05    0.000162712           0.62 
+   63000    35003  5.8977751e-05    0.000162712           0.63 
+   64000    35003  5.9786549e-05    0.000162712           0.64 
+   65000    35003  6.0952627e-05    0.000162712           0.65 
+   66000    35003   6.285084e-05    0.000162712           0.66 
+   67000    35003  6.5729985e-05    0.000162712           0.67 
+   68000    35003  6.9263101e-05    0.000162712           0.68 
+   69000    35003  7.4519404e-05    0.000162712           0.69 
+   70000    35003   8.026734e-05    0.000162712            0.7 
+   71000    35003   8.740383e-05    0.000162712           0.71 
+   72000    35003  9.6112673e-05    0.000162712           0.72 
+   73000    35003  0.00010722125    0.000162712           0.73 
+   74000    35003   0.0001225211    0.000162712           0.74 
+   75000    35003  0.00014062493    0.000162712           0.75 
+   76000    35003  0.00016119256    0.000162712           0.76 
+   77000    35003  0.00018648394    0.000162712           0.77 
+   78000    35003  0.00021158271    0.000162712           0.78 
+   79000    35003  0.00024301853    0.000162712           0.79 
+   80000    35003  0.00027380005    0.000162712            0.8 
+   81000    35003  0.00028749464    0.000162712           0.81 
+   82000    35003  0.00030366787    0.000162712           0.82 
+   83000    35003  0.00030179462    0.000162712           0.83 
+   84000    35003  0.00030618986    0.000162712           0.84 
+   85000    35003  0.00030557132    0.000162712           0.85 
+   86000    35003   0.0003039875    0.000162712           0.86 
+   87000    35003    0.000301555    0.000162712           0.87 
+   88000    35003  0.00029499931    0.000162712           0.88 
+   89000    35003  0.00028572611    0.000162712           0.89 
+   90000    35003  0.00027865105    0.000162712            0.9 
+   91000    35003  0.00027366999    0.000162712           0.91 
+   92000    35003  0.00025744265    0.000162712           0.92 
+   93000    35003  0.00024979132    0.000162712           0.93 
+   94000    35003  0.00024252163    0.000162712           0.94 
+   95000    35003  0.00022969232    0.000162712           0.95 
+   96000    35003  0.00022510785    0.000162712           0.96 
+   97000    35003  0.00021489966    0.000162712           0.97 
+   98000    35003   0.0002099983    0.000162712           0.98 
+   99000    35003  0.00020260488    0.000162712           0.99 
+  100000    35003  0.00019726445    0.000162712              1 
+  101000    35003  0.00018746579    0.000162712           1.01 
+  102000    35003   0.0001857432    0.000162712           1.02 
+  103000    35003  0.00018215555    0.000162712           1.03 
+  104000    35003  0.00018111753    0.000162712           1.04 
+  105000    35003  0.00017274299    0.000162712           1.05 
+  106000    35003  0.00017529542    0.000162712           1.06 
+  107000    35003   0.0011444272    0.000162712           1.07 
+  108000    35003   0.0011547711    0.000162712           1.08 
+  109000    35003   0.0011599908    0.000162712           1.09 
+  110000    35003   0.0011306835    0.000162712            1.1 
+  111000    35003   0.0011200355    0.000162712           1.11 
+  112000    35003   0.0011290927    0.000162712           1.12 
+  113000    35003   0.0011335397    0.000162712           1.13 
+  114000    35003   0.0011246699    0.000162712           1.14 
+  115000    35003   0.0011036241    0.000162712           1.15 
+  116000    35003   0.0011253528    0.000162712           1.16 
+  117000    35003   0.0011210722    0.000162712           1.17 
+  118000    35003   0.0011411818    0.000162712           1.18 
+  119000    35003   0.0011366667    0.000162712           1.19 
+  120000    35003    0.001128192    0.000162712            1.2 
+  121000    35003    0.001140478    0.000162712           1.21 
+  122000    35003   0.0011440886    0.000162712           1.22 
+  123000    35003   0.0011383676    0.000162712           1.23 
+  124000    35003   0.0011327166    0.000162712           1.24 
+  125000    35003     0.00113751    0.000162712           1.25 
+  126000    35003     0.00113037    0.000162712           1.26 
+  127000    35003   0.0011352427    0.000162712           1.27 
+  128000    35003   0.0011451215    0.000162712           1.28 
+  129000    35003   0.0011474994    0.000162712           1.29 
+  130000    35003   0.0011484857    0.000162712            1.3 
+  131000    35003   0.0011350979    0.000162712           1.31 
+  132000    35003   0.0011479279    0.000162712           1.32 
+  133000    35003   0.0011444436    0.000162712           1.33 
+  134000    35003   0.0011455198    0.000162712           1.34 
+  135000    35003   0.0011550911    0.000162712           1.35 
+  136000    35003    0.001158933    0.000162712           1.36 
+  137000    35003   0.0011475434    0.000162712           1.37 
+  138000    35003   0.0011524991    0.000162712           1.38 
+  139000    35003   0.0011355161    0.000162712           1.39 
+  140000    35003   0.0011619367    0.000162712            1.4 
+  141000    35003     0.00114049    0.000162712           1.41 
+  142000    35003    0.001129251    0.000162712           1.42 
+  143000    35003   0.0011429991    0.000162712           1.43 
+  144000    35003   0.0011380482    0.000162712           1.44 
+  145000    35003   0.0011384354    0.000162712           1.45 
+  146000    35003   0.0011371429    0.000162712           1.46 
+  147000    35003   0.0011278163    0.000162712           1.47 
+  148000    35003   0.0011227982    0.000162712           1.48 
+  149000    35003   0.0011363479    0.000162712           1.49 
+  150000    35003   0.0011339458    0.000162712            1.5 
+Loop time of 1973.62 on 1 procs for 150000 steps with 35003 atoms, finish time Thu Jun  8 19:46:33 2023
+
+
+Pair  time (%) = 1199.84 (60.7936)
+Neigh time (%) = 167.789 (8.50159)
+Comm  time (%) = 1.66819 (0.084524)
+Outpt time (%) = 0.0161763 (0.000819625)
+Modfy time (%) = 582.123 (29.4952)
+Other time (%) = 22.1898 (1.12432)
+Fix m1 property/global time (%) = 3.71e-07 (1.87979e-08)
+Fix m2 property/global time (%) = 1.12e-07 (5.67484e-09)
+Fix m3 property/global time (%) = 1.29e-07 (6.5362e-09)
+Fix m4 property/global time (%) = 3.59998e-08 (1.82405e-09)
+Fix m5 property/global time (%) = 4.4e-08 (2.2294e-09)
+Fix m6 property/global time (%) = 1.07e-07 (5.4215e-09)
+Fix m7 property/global time (%) = 1.01e-07 (5.1175e-09)
+Fix gravi gravity time (%) = 19.4227 (0.984113)
+Fix cad mesh/surface/stress time (%) = 11.4994 (0.582656)
+Fix inface mesh/surface time (%) = 0.0762515 (0.00386353)
+Fix granwalls wall/gran time (%) = 351.934 (17.8319)
+Fix wall_neighlist_cad neighlist/mesh time (%) = 39.8229 (2.01775)
+Fix n_neighs_mesh_cad property/atom time (%) = 0.00178336 (9.03596e-05)
+Fix tracker_cad contacthistory/mesh time (%) = 6.3937 (0.323957)
+Fix frac0 particletemplate/sphere time (%) = 1.63e-07 (8.25893e-09)
+Fix frac1 particletemplate/sphere time (%) = 1.03e-07 (5.21883e-09)
+Fix frac2 particletemplate/sphere time (%) = 1.06e-07 (5.37083e-09)
+Fix frac3 particletemplate/sphere time (%) = 1.14e-07 (5.77618e-09)
+Fix frac4 particletemplate/sphere time (%) = 6.7e-08 (3.39477e-09)
+Fix frac5 particletemplate/sphere time (%) = 1.06e-07 (5.37083e-09)
+Fix frac6 particletemplate/sphere time (%) = 2.60002e-08 (1.31738e-09)
+Fix frac7 particletemplate/sphere time (%) = 1.01e-07 (5.1175e-09)
+Fix frac8 particletemplate/sphere time (%) = 1.04e-07 (5.2695e-09)
+Fix frac9 particletemplate/sphere time (%) = 2.6e-08 (1.31737e-09)
+Fix pdd particledistribution/discrete/numberbased time (%) = 1.86e-07 (9.4243e-09)
+Fix ins insert/stream time (%) = 32.2537 (1.63424)
+Fix release_fix_insert_stream property/atom time (%) = 0.000390002 (1.97607e-05)
+Fix integr nve/sphere time (%) = 66.0732 (3.34781)
+Fix move move/mesh time (%) = 42.9142 (2.17438)
+Fix contacthistory contacthistory time (%) = 11.7312 (0.594398)
+
+Nlocal:    35003 ave 35003 max 35003 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    280204 ave 280204 max 280204 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 280204
+Ave neighs/atom = 8.00514
+Neighbor list builds = 4755
+Dangerous builds = 0
+Setting up run at Thu Jun  8 19:46:33 2023
+
+Memory usage per processor = 45.1183 Mbytes
+    Step    Atoms         KinEng         Volume           Time 
+  150000    35003   0.0011339458    0.000162712            1.5 
+  151000    35003    0.001124371    0.000162712           1.51 
+  152000    35003   0.0011161585    0.000162712           1.52 
+  153000    35003   0.0011350478    0.000162712           1.53 
+  154000    35003   0.0011250752    0.000162712           1.54 
+  155000    35003   0.0011433992    0.000162712           1.55 
+  156000    35003   0.0011570827    0.000162712           1.56 
+  157000    35003   0.0011560245    0.000162712           1.57 
+  158000    35003    0.001176885    0.000162712           1.58 
+  159000    35003   0.0011708413    0.000162712           1.59 
+  160000    35003   0.0011746585    0.000162712            1.6 
+  161000    35003   0.0011629083    0.000162712           1.61 
+  162000    35003   0.0011453686    0.000162712           1.62 
+  163000    35003   0.0011585011    0.000162712           1.63 
+  164000    35003   0.0011549206    0.000162712           1.64 
+  165000    35003   0.0011540192    0.000162712           1.65 
+  166000    35003   0.0011463347    0.000162712           1.66 
+  167000    35003   0.0011390052    0.000162712           1.67 
+  168000    35003   0.0011427493    0.000162712           1.68 
+  169000    35003   0.0011422393    0.000162712           1.69 
+  170000    35003    0.001143982    0.000162712            1.7 
+Loop time of 269.632 on 1 procs for 20000 steps with 35003 atoms, finish time Thu Jun  8 19:51:03 2023
+
+
+Pair  time (%) = 172.828 (64.0979)
+Neigh time (%) = 15.0814 (5.59334)
+Comm  time (%) = 0.182676 (0.0677501)
+Outpt time (%) = 2.80467 (1.04019)
+Modfy time (%) = 75.6915 (28.0722)
+Other time (%) = 3.04327 (1.12868)
+Fix m1 property/global time (%) = 2.87e-07 (1.06442e-07)
+Fix m2 property/global time (%) = 1.04e-07 (3.85711e-08)
+Fix m3 property/global time (%) = 2.07e-07 (7.67714e-08)
+Fix m4 property/global time (%) = 9.90003e-08 (3.67169e-08)
+Fix m5 property/global time (%) = 8.6e-08 (3.18954e-08)
+Fix m6 property/global time (%) = 9.79999e-08 (3.63458e-08)
+Fix m7 property/global time (%) = 1.01e-07 (3.74584e-08)
+Fix gravi gravity time (%) = 2.66066 (0.986776)
+Fix cad mesh/surface/stress time (%) = 1.40169 (0.519853)
+Fix inface mesh/surface time (%) = 0.0103055 (0.00382206)
+Fix granwalls wall/gran time (%) = 48.1955 (17.8746)
+Fix wall_neighlist_cad neighlist/mesh time (%) = 3.27914 (1.21616)
+Fix n_neighs_mesh_cad property/atom time (%) = 0.000167892 (6.22672e-05)
+Fix tracker_cad contacthistory/mesh time (%) = 0.592543 (0.21976)
+Fix frac0 particletemplate/sphere time (%) = 1.4e-07 (5.19228e-08)
+Fix frac1 particletemplate/sphere time (%) = 1.12e-07 (4.15382e-08)
+Fix frac2 particletemplate/sphere time (%) = 9.60003e-08 (3.56043e-08)
+Fix frac3 particletemplate/sphere time (%) = 9.09999e-08 (3.37497e-08)
+Fix frac4 particletemplate/sphere time (%) = 6.60002e-08 (2.44779e-08)
+Fix frac5 particletemplate/sphere time (%) = 1.6e-07 (5.93402e-08)
+Fix frac6 particletemplate/sphere time (%) = 2.50002e-08 (9.27198e-09)
+Fix frac7 particletemplate/sphere time (%) = 1.02e-07 (3.78295e-08)
+Fix frac8 particletemplate/sphere time (%) = 1.03e-07 (3.82004e-08)
+Fix frac9 particletemplate/sphere time (%) = 2.50002e-08 (9.27198e-09)
+Fix pdd particledistribution/discrete/numberbased time (%) = 1.83e-07 (6.78705e-08)
+Fix ins insert/stream time (%) = 4.24906 (1.57588)
+Fix release_fix_insert_stream property/atom time (%) = 4.0243e-05 (1.49252e-05)
+Fix integr nve/sphere time (%) = 9.06819 (3.36318)
+Fix move move/mesh time (%) = 5.01975 (1.86171)
+Fix contacthistory contacthistory time (%) = 1.21437 (0.450381)
+
+Nlocal:    35003 ave 35003 max 35003 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    280058 ave 280058 max 280058 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 280058
+Ave neighs/atom = 8.00097
+Neighbor list builds = 379
+Dangerous builds = 0
+447829    0.000162712           1.06 
+  107000    35003  0.00017408728    0.000162712           1.07 
+  108000    35003  0.00017090495    0.000162712           1.08 
+  109000    35003  0.00017134041    0.000162712           1.09 
+  110000    35003  0.00017057835    0.000162712            1.1 
+  111000    35003  0.00016605061    0.000162712           1.11 
+  112000    35003  0.00016781123    0.000162712           1.12 
+  113000    35003   0.0001669228    0.000162712           1.13 
+  114000    35003  0.00016603172    0.000162712           1.14 
+  115000    35003  0.00016764689    0.000162712           1.15 
+  116000    35003  0.00017155394    0.000162712           1.16 
+  117000    35003  0.00017005969    0.000162712           1.17 
+  118000    35003   0.0001663314    0.000162712           1.18 
+  119000    35003  0.00016991079    0.000162712           1.19 
+  120000    35003  0.00017182924    0.000162712            1.2 
+  121000    35003  0.00017546635    0.000162712           1.21 
+  122000    35003  0.00017509843    0.000162712           1.22 
+  123000    35003  0.00017688764    0.000162712           1.23 
+  124000    35003  0.00017789947    0.000162712           1.24 
+  125000    35003  0.00017835695    0.000162712           1.25 
+  126000    35003   0.0001784101    0.000162712           1.26 
+  127000    35003  0.00018260747    0.000162712           1.27 
+  128000    35003  0.00018252705    0.000162712           1.28 
+  129000    35003   0.0001809168    0.000162712           1.29 
+  130000    35003  0.00018390511    0.000162712            1.3 
+  131000    35003  0.00018276392    0.000162712           1.31 
+  132000    35003  0.00018230152    0.000162712           1.32 
+  133000    35003  0.00018420089    0.000162712           1.33 
+  134000    35003  0.00018779467    0.000162712           1.34 
+  135000    35003  0.00018633649    0.000162712           1.35 
+  136000    35003  0.00018926294    0.000162712           1.36 
+  137000    35003  0.00018589685    0.000162712           1.37 
+  138000    35003  0.00018659172    0.000162712           1.38 
+  139000    35003  0.00018906944    0.000162712           1.39 
+  140000    35003  0.00019183322    0.000162712            1.4 
+  141000    35003  0.00019062093    0.000162712           1.41 
+  142000    35003  0.00019338594    0.000162712           1.42 
+  143000    35003  0.00019390418    0.000162712           1.43 
+  144000    35003  0.00019610357    0.000162712           1.44 
+  145000    35003  0.00020133713    0.000162712           1.45 
+  146000    35003  0.00020227477    0.000162712           1.46 
+  147000    35003  0.00020505055    0.000162712           1.47 
+  148000    35003  0.00020284821    0.000162712           1.48 
+  149000    35003  0.00020429859    0.000162712           1.49 
+  150000    35003  0.00020757101    0.000162712            1.5 
+Loop time of 1989.27 on 1 procs for 150000 steps with 35003 atoms, finish time Thu Jun  8 19:46:49 2023
+
+
+Pair  time (%) = 1264.08 (63.5451)
+Neigh time (%) = 123.544 (6.2105)
+Comm  time (%) = 1.36471 (0.0686036)
+Outpt time (%) = 0.0164621 (0.000827543)
+Modfy time (%) = 577.858 (29.0488)
+Other time (%) = 22.4035 (1.12622)
+Fix m1 property/global time (%) = 3.65e-07 (1.83484e-08)
+Fix m2 property/global time (%) = 1.23e-07 (6.18318e-09)
+Fix m3 property/global time (%) = 1e-07 (5.02697e-09)
+Fix m4 property/global time (%) = 9.40001e-08 (4.72536e-09)
+Fix m5 property/global time (%) = 4.3e-08 (2.1616e-09)
+Fix m6 property/global time (%) = 8.6e-08 (4.32319e-09)
+Fix m7 property/global time (%) = 3.80001e-08 (1.91025e-09)
+Fix gravi gravity time (%) = 19.4127 (0.975871)
+Fix cad mesh/surface/stress time (%) = 10.8797 (0.54692)
+Fix inface mesh/surface time (%) = 0.126647 (0.00636653)
+Fix granwalls wall/gran time (%) = 359.579 (18.0759)
+Fix wall_neighlist_cad neighlist/mesh time (%) = 30.3849 (1.52744)
+Fix n_neighs_mesh_cad property/atom time (%) = 0.00127487 (6.40875e-05)
+Fix tracker_cad contacthistory/mesh time (%) = 4.83066 (0.242836)
+Fix frac0 particletemplate/sphere time (%) = 1.59e-07 (7.99288e-09)
+Fix frac1 particletemplate/sphere time (%) = 5.08e-07 (2.5537e-08)
+Fix frac2 particletemplate/sphere time (%) = 1.03e-07 (5.17778e-09)
+Fix frac3 particletemplate/sphere time (%) = 1.04e-07 (5.22805e-09)
+Fix frac4 particletemplate/sphere time (%) = 1.3e-07 (6.53506e-09)
+Fix frac5 particletemplate/sphere time (%) = 3.60001e-08 (1.80971e-09)
+Fix frac6 particletemplate/sphere time (%) = 2.6e-08 (1.30701e-09)
+Fix frac7 particletemplate/sphere time (%) = 1.01e-07 (5.07724e-09)
+Fix frac8 particletemplate/sphere time (%) = 1.02e-07 (5.12751e-09)
+Fix frac9 particletemplate/sphere time (%) = 1.03e-07 (5.17778e-09)
+Fix pdd particledistribution/discrete/numberbased time (%) = 1.87e-07 (9.40044e-09)
+Fix ins insert/stream time (%) = 32.626 (1.6401)
+Fix release_fix_insert_stream property/atom time (%) = 0.000392421 (1.97269e-05)
+Fix integr nve/sphere time (%) = 65.9054 (3.31305)
+Fix move move/mesh time (%) = 45.5016 (2.28735)
+Fix contacthistory contacthistory time (%) = 8.60986 (0.432815)
+
+Nlocal:    35003 ave 35003 max 35003 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    285349 ave 285349 max 285349 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 285349
+Ave neighs/atom = 8.15213
+Neighbor list builds = 3699
+Dangerous builds = 0
+Setting up run at Thu Jun  8 19:46:49 2023
+
+Memory usage per processor = 45.1183 Mbytes
+    Step    Atoms         KinEng         Volume           Time 
+  150000    35003  0.00020757101    0.000162712            1.5 
+  151000    35003  0.00020648119    0.000162712           1.51 
+  152000    35003   0.0002056761    0.000162712           1.52 
+  153000    35003   0.0002069353    0.000162712           1.53 
+  154000    35003  0.00020414131    0.000162712           1.54 
+  155000    35003  0.00020469374    0.000162712           1.55 
+  156000    35003  0.00020272691    0.000162712           1.56 
+  157000    35003  0.00019865948    0.000162712           1.57 
+  158000    35003  0.00020278779    0.000162712           1.58 
+  159000    35003  0.00019853521    0.000162712           1.59 
+  160000    35003  0.00019536894    0.000162712            1.6 
+  161000    35003  0.00019466529    0.000162712           1.61 
+  162000    35003  0.00019278949    0.000162712           1.62 
+  163000    35003  0.00019228848    0.000162712           1.63 
+  164000    35003  0.00019193872    0.000162712           1.64 
+  165000    35003  0.00019286154    0.000162712           1.65 
+  166000    35003   0.0001921197    0.000162712           1.66 
+  167000    35003  0.00019359806    0.000162712           1.67 
+  168000    35003  0.00019272636    0.000162712           1.68 
+  169000    35003  0.00019199768    0.000162712           1.69 
+  170000    35003  0.00019363127    0.000162712            1.7 
+Loop time of 275.954 on 1 procs for 20000 steps with 35003 atoms, finish time Thu Jun  8 19:51:25 2023
+
+
+Pair  time (%) = 182.752 (66.2255)
+Neigh time (%) = 9.97243 (3.6138)
+Comm  time (%) = 0.143701 (0.0520741)
+Outpt time (%) = 2.96723 (1.07526)
+Modfy time (%) = 77.0631 (27.9261)
+Other time (%) = 3.05565 (1.1073)
+Fix m1 property/global time (%) = 3.71e-07 (1.34443e-07)
+Fix m2 property/global time (%) = 1.16e-07 (4.20361e-08)
+Fix m3 property/global time (%) = 1.07e-07 (3.87747e-08)
+Fix m4 property/global time (%) = 9.10004e-08 (3.29767e-08)
+Fix m5 property/global time (%) = 4.6e-08 (1.66694e-08)
+Fix m6 property/global time (%) = 8.6e-08 (3.11646e-08)
+Fix m7 property/global time (%) = 3.80001e-08 (1.37704e-08)
+Fix gravi gravity time (%) = 2.65696 (0.962829)
+Fix cad mesh/surface/stress time (%) = 1.32207 (0.479091)
+Fix inface mesh/surface time (%) = 0.0170766 (0.00618822)
+Fix granwalls wall/gran time (%) = 50.056 (18.1393)
+Fix wall_neighlist_cad neighlist/mesh time (%) = 2.19699 (0.796143)
+Fix n_neighs_mesh_cad property/atom time (%) = 0.000113192 (4.10185e-05)
+Fix tracker_cad contacthistory/mesh time (%) = 0.424087 (0.15368)
+Fix frac0 particletemplate/sphere time (%) = 2.01e-07 (7.28383e-08)
+Fix frac1 particletemplate/sphere time (%) = 3.50001e-08 (1.26833e-08)
+Fix frac2 particletemplate/sphere time (%) = 1.06e-07 (3.84123e-08)
+Fix frac3 particletemplate/sphere time (%) = 1.03e-07 (3.73252e-08)
+Fix frac4 particletemplate/sphere time (%) = 7.19997e-08 (2.60912e-08)
+Fix frac5 particletemplate/sphere time (%) = 3.80001e-08 (1.37704e-08)
+Fix frac6 particletemplate/sphere time (%) = 2.50002e-08 (9.05955e-09)
+Fix frac7 particletemplate/sphere time (%) = 3.06e-07 (1.10888e-07)
+Fix frac8 particletemplate/sphere time (%) = 1.03e-07 (3.73252e-08)
+Fix frac9 particletemplate/sphere time (%) = 9.60003e-08 (3.47886e-08)
+Fix pdd particledistribution/discrete/numberbased time (%) = 4.43e-07 (1.60534e-07)
+Fix ins insert/stream time (%) = 4.22703 (1.53179)
+Fix release_fix_insert_stream property/atom time (%) = 2.9412e-05 (1.06583e-05)
+Fix integr nve/sphere time (%) = 9.05064 (3.27976)
+Fix move move/mesh time (%) = 6.23023 (2.25771)
+Fix contacthistory contacthistory time (%) = 0.881911 (0.319586)
+
+Nlocal:    35003 ave 35003 max 35003 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    285892 ave 285892 max 285892 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 285892
+Ave neighs/atom = 8.16764
+Neighbor list builds = 258
+Dangerous builds = 0
+For RPM = 15, error to experiment = 354.00713436385263 mm2
+For RPM = 45, error to experiment = 420.8275862068966 mm2

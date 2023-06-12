@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------
+Starting ACCESS run at 00:01:05 on 12/06/2023
+
+Access
+------
+multi_objective = None
+paths = 
+  AccessPaths
+  -----------
+  directory = access_seed420
+  epochs = access_seed420/epochs_pop8.csv
+  epochs_scaled = access_seed420/epochs_pop8_scaled.csv
+  history = access_seed420/history_pop8.csv
+  history_scaled = access_seed420/history_pop8_scaled.csv
+  outputs = access_seed420/outputs
+  results = access_seed420/results
+  script = access_seed420/access_script.py
+  setup = access_seed420/access_setup.toml
+progress = 
+  AccessProgress
+  --------------
+  epochs = None
+  epochs_scaled = None
+  history = None
+  history_scaled = None
+  stderr = None
+  stdout = None
+scheduler = LocalScheduler(python_executable=['/opt/homebrew/anaconda3/envs/ifpri/bin/python3.9'])
+setup = 
+  AccessSetup
+  -----------
+  parameters = 
+       value       min       max     sigma
+    x    0.0 -3.141593  3.141593  2.513274
+    y    0.0 -3.141593  3.141593  2.513274
+  parameters_scaled = 
+       value   min   max  sigma
+    x    0.0 -1.25  1.25    1.0
+    y    0.0 -1.25  1.25    1.0
+  population = 8
+  rng = Generator(PCG64)
+  scaling = [2.51327412 2.51327412]
+  script = #!/usr/bin/env python3\n# -*- coding: utf-8 -*-\n# File   ...
+  seed = 420
+  target = 0.05
+verbose = 4

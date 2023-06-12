@@ -1,0 +1,16 @@
++--------------------------------------------------------------------------+
+| Job on the BlueBEAR cluster:
+| Starting at Thu Jun  8 19:12:37 2023 for aln705(594991)
+| Identity jobid 373073 jobname access_slurm_submission.sh
+| Running against project mangers-pept-tracking and in partition icelake-shared
+| Requested cpu=2,mem=8G,node=1,billing=2 - 02:00:00 walltime
+| Assigned to nodes bear-pg0105u04b
+| Command /rds/projects/w/windowcr-awe-ram-project/ACCES/GranuDrum-Calibration-Example/access_seed42/access_slurm_submission.sh access_seed42/access_script.py access_seed42/results/parameters.0.pickle access_seed42/results/result.0.pickle
+| WorkDir /rds/projects/w/windowcr-awe-ram-project/ACCES/GranuDrum-Calibration-Example
++--------------------------------------------------------------------------+
++--------------------------------------------------------------------------+
+| Finished at Thu Jun  8 19:51:38 2023 for aln705(594991) on the BlueBEAR Cluster
+| Required (01:15:46 cputime, 678163K memory used) - 00:39:01 walltime
+| JobState COMPLETING - Reason None
+| Exitcode 0:0
++--------------------------------------------------------------------------+

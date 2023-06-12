@@ -1,0 +1,48 @@
+[paths]
+directory = "access_seed420"
+results = "access_seed420/results"
+outputs = "access_seed420/outputs"
+script = "access_seed420/access_script.py"
+setup = "access_seed420/access_setup.toml"
+epochs = "access_seed420/epochs_pop8.csv"
+epochs_scaled = "access_seed420/epochs_pop8_scaled.csv"
+history = "access_seed420/history_pop8.csv"
+history_scaled = "access_seed420/history_pop8_scaled.csv"
+
+[setup]
+scaling = [ 2.5132741228718345, 2.5132741228718345,]
+population = 8
+target = 0.05
+seed = 420
+
+[setup.parameters.value]
+x = 0.0
+y = 0.0
+
+[setup.parameters.min]
+x = -3.141592653589793
+y = -3.141592653589793
+
+[setup.parameters.max]
+x = 3.141592653589793
+y = 3.141592653589793
+
+[setup.parameters.sigma]
+x = 2.5132741228718345
+y = 2.5132741228718345
+
+[setup.parameters_scaled.value]
+x = 0.0
+y = 0.0
+
+[setup.parameters_scaled.min]
+x = -1.25
+y = -1.25
+
+[setup.parameters_scaled.max]
+x = 1.25
+y = 1.25
+
+[setup.parameters_scaled.sigma]
+x = 1.0
+y = 1.0
