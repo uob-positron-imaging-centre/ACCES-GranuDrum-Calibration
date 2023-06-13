@@ -30,9 +30,9 @@ access_id = 0                       # The trial ID
 
 
 # Extract parameter values - ACCES will modify the `parameters` above
-sliding = parameters.loc["sliding", "value"]
-rolling = parameters.loc["rolling", "value"]
-num_particles = int(parameters.loc["num_particles", "value"])
+sliding = parameters["value"]["sliding"]
+rolling = parameters["value"]["rolling"]
+num_particles = int(parameters["value"]["num_particles"])
 
 
 def generate_trial_simulation(trial_directory, rpm):
