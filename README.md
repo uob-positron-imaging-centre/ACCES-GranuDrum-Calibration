@@ -1,5 +1,9 @@
 # ACCES-GranuDrum-Calibration
-Notebooks on using, post-processing, and calibrating a discrete element method digital twin of a GranuTools GranuDrum using ACCES, presented at the International Fine Particle Research Institute (IFPRI) 2023 annual general meeting.
+Notebooks on using, post-processing, and calibrating a discrete element method digital twin of a GranuTools GranuDrum using ACCES.
+
+See the ACCES paper introducing its architecture and validating DEM results here: https://doi.org/10.48550/arXiv.2505.02967
+
+Parts of this work have been presented at the International Fine Particle Research Institute (IFPRI) 2023 annual general meeting.
 
 See an online, hands-on DEM calibration example here: https://anicusan.github.io/InteractiveGranuDrumCalibration/
 
@@ -8,7 +12,7 @@ See an online, hands-on DEM calibration example here: https://anicusan.github.io
 
 See the rendered notebook as a static PDF page here, [on GitHub](https://github.com/uob-positron-imaging-centre/ACCES-GranuDrum-Calibration/blob/main/LIGGGHTS-Basics/LIGGGHTS_Explanation.ipynb).
 
-Run an interactive, executable Jupyter Notebook on Binder [server 1](https://mybinder.org/v2/gh/uob-positron-imaging-centre/ACCES-GranuDrum-Calibration/HEAD?labpath=LIGGGHTS-Basics%2FLIGGGHTS_Explanation.ipynb): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uob-positron-imaging-centre/ACCES-GranuDrum-Calibration/HEAD?labpath=LIGGGHTS-Basics%2FLIGGGHTS_Explanation.ipynb)
+Run an interactive, executable Jupyter Notebook on Binder [server 1](https://mybinder.org/v2/gh/uob-positron-imaging-centre/ACCES-GranuDrum-Calibration/HEAD?labpath=LIGGGHTS-Basics%2FLIGGGHTS_Explanation.ipynb)l: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uob-positron-imaging-centre/ACCES-GranuDrum-Calibration/HEAD?labpath=LIGGGHTS-Basics%2FLIGGGHTS_Explanation.ipynb)
 
 
 ## 1b. Using ACCES to Optimise Entire Python Scripts
